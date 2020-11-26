@@ -36,4 +36,4 @@ Test git
    33  vim README.md
    34  history
 ```
-![alt text(2020-11-26_15-08-06.jpg)]
+![alt text](2020-11-26_15-08-06.jpg)
