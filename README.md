@@ -1,5 +1,6 @@
 # lab
 Test git
+```
  1  sudo apt
     2  sudo apt update
     3  ssh-keygen
@@ -34,3 +35,4 @@ Test git
    32  git push
    33  vim README.md
    34  history
+```
